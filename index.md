@@ -11,7 +11,7 @@ Aspiring Cybersecurity Specialist
 
 I used Suricata and Snort on a Linux VM to collect and analyze network logs. This project demonstrates how to monitor, detect, and respond to threats, and documents ways to improve system resilience.
 
-![IDS Network Analysis screenshot](assets/screenshots/ids-analysis.svg)
+![IDS Network Analysis screenshot](assets/screenshots/ids-analysis.jpg)
 
 <p><a class="project-btn" href="projects/ids-analysis/README.md">View Project</a></p>
 
@@ -30,7 +30,6 @@ A demonstration of a technology retail network and website deployment (hosted vi
 ![Tech Shop Network screenshot](assets/screenshots/tech-shop-network.jpg "Tech Shop Network")
 
 <p><a class="project-btn" href="projects/tech-shop-network/README.md">View Project</a></p>
----
 
 ## CV
 
