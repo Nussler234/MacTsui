@@ -2,7 +2,7 @@
 
 Aspiring Cybersecurity Specialist
 
- 
+<!-- markdownlint-disable MD033 -->
 <link rel="stylesheet" href="assets/css/styles.css">
 
 ## Projects
@@ -35,12 +35,13 @@ A demonstration of a technology retail network and website deployment (hosted vi
 
 ## CV
 
-Download: 
+Download:
 
 ## Contact
 
 - **Email:** <macbluetsui@icloud.com>
 - **GitHub:** [Opening0](https://github.com/Opening0)
-- **Phone Number** 07476852370
+- **Phone Number:** 07476852370
 
 <script src="assets/js/animations.js"></script>
+<!-- markdownlint-enable MD033 -->
