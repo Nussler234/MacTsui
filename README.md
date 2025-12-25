@@ -36,9 +36,8 @@ Download:
 
 ## Contact
 
-- **Email:** <macbluetsui@icloud.com>
+- **Businness Email:** <macbluetsui@icloud.com>
 - **GitHub:** [Nussler234](https://github.com/Nussler234)
-- **Phone Number:** 07476852370
 
 <script src="assets/js/animations.js"></script>
 <!-- markdownlint-enable MD033 -->
