@@ -1,4 +1,3 @@
-# Mac Tsui
 
 Aspiring Cybersecurity Specialist
 
