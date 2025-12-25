@@ -38,7 +38,7 @@ Download:
 ## Contact
 
 - **Email:** <macbluetsui@icloud.com>
-- **GitHub:** [Nuzzler234](https://github.com/Nuzzler234)
+- **GitHub:** [Nussler234](https://github.com/Nussler234)
 - **Phone Number:** 07476852370
 
 <script src="assets/js/animations.js"></script>
